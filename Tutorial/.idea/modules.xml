@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/../DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program/DecisionControl/DecisionControl.iml" filepath="$PROJECT_DIR$/../Program/DecisionControl/DecisionControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program/Loops/Loops.iml" filepath="$PROJECT_DIR$/../Program/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program/Program.iml" filepath="$PROJECT_DIR$/../Program/Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataStructure/src/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/../DataStructure/src/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial.iml" filepath="$PROJECT_DIR$/Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataStructure/src/array/array.iml" filepath="$PROJECT_DIR$/../DataStructure/src/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataStructure/arrays/arrays.iml" filepath="$PROJECT_DIR$/../DataStructure/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataStructure/sorting/sorting.iml" filepath="$PROJECT_DIR$/../DataStructure/sorting/sorting.iml" />
+    </modules>
+  </component>
+</project>
